@@ -16,3 +16,4 @@ while left <= right:
 
 if not found:
     print("Element not found")
+

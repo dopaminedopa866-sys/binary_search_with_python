@@ -1,0 +1,3 @@
+@echo off
+echo Starting NEON SURGE...
+python game.py
